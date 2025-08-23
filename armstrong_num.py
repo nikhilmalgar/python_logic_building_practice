@@ -1,3 +1,5 @@
+## An Armstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
+
 n = int(input())
 num = n
 total = 0

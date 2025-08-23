@@ -1,5 +1,4 @@
-'''prime_number is the number that should be 
-devisible by itself and 1. (Two Factors)'''
+## prime_number is the number that should be  devisible by itself and 1. (Two Factors)
 
 num = int(input("Enter the number to check prime:\n"))
 

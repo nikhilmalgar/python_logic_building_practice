@@ -1,3 +1,4 @@
+##  program to count the number of digits in a integer.
 num=int(input("Enter the number:"))
 count = 0
 if(num==0):
