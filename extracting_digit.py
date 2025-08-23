@@ -1,0 +1,9 @@
+num = int(input("enter the number:"))
+digit=[]
+
+while num>0:
+    digit.append(num%10)
+    num //=10
+
+digit.reverse()
+print(digit)
