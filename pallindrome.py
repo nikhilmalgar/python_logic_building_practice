@@ -10,3 +10,11 @@ while(num>0):
     num //=10
 
 print(n==result)
+
+## another method of checking the palindrome use this in teh interview.
+
+pal = input("enter the phrase to check if it palindrome or not.!")
+if pal==pal[: :-1]:
+    print(pal, "is palindrome.")
+else:
+    print(pal,"is not a palindrome")
